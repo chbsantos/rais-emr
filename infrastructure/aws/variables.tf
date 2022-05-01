@@ -3,11 +3,11 @@ variable "region_id" {
 }
 
 variable "prefix" {
-  default = "igti-ney-rais"
+  default = "carlos"
 }
 
 variable "account" {
-  default = 127012818163
+  default = 072163000909
 }
 
 # Prefix configuration and project common tags
